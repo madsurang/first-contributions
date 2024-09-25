@@ -21,6 +21,7 @@
 - [Avanish Mallya] **My First Contribution**
 - [Shaik Arfath Ali] **My First Contribution**
 - [K N S M Pavan ] **First Contribution**
+- [Mads]
 - [Worlanyo Kwabla Kporfeame](https://github.com/kworlanyo) **First Contribution**
 - [Ganesh M] **My First Contribution**
 - [Teja S]**My First Contribution**
